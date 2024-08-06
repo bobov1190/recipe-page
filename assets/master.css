@@ -1,0 +1,54 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+body {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background: hsl(330, 100%, 98%);
+}
+
+.box {
+	width: 735px;
+	margin-top: 125px;
+	background: white;
+	padding: 40px;
+	border-radius: 25px;
+}
+
+.image {
+	width: 100%;
+	margin: 0 auto;
+	margin-bottom: 35px;
+}
+
+.image img {
+	width: 655px;
+	border-radius: 10px;
+}
+
+.title {
+	margin-bottom: 35px;
+}
+
+.description {
+	margin-bottom: 35px;
+}
+
+.prep-time {
+	margin-bottom: 35px;
+}
+
+.ingredients {
+	margin-bottom: 35px;
+}
+
+.instructions {
+	margin: 35px 0;
+}
+
+.nutrition {
+	margin: 35px 0;
+}
