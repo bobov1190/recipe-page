@@ -71,6 +71,7 @@ body{
   background-color: var(--stone100);
 }
 .container{
+  margin-top: 125px;
   background-color: white;
   max-width: 46em;
   border-radius: 1.5em;
